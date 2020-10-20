@@ -9,11 +9,11 @@
 
 #### Paravoid is a space shooter (without the shooter part) where your goal is to stay alive as much time as possible.  
 
-It is not yet ready, but ... **comming soon to iPhone / iPad devices**
+It is not yet ready, but ... **comming soon to TestFlight for iPhone / iPad devices**
 
 
-## Current state
-- at this moment I´m working on an complement app whose motivation is to be able to test the backgrounds previously to introduce them in the game.
+## Current progress.
+- at this moment I´m working on an complement app whose motivation is to be able to test the backgrounds previously to be introduced in the game.
 
 
 
