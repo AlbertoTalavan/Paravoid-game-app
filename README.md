@@ -12,7 +12,7 @@
 It is not yet ready, but ... **comming soon to iPhone / iPad devices**
 
 
-### Current state
+## Current state
 - at this moment I´m working on an complement app whose motivation is to be able to test the backgrounds previously to introduce them in the game.
 
 
