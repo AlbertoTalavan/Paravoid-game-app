@@ -9,7 +9,7 @@
 
 #### Paravoid is a space shooter (without the shooter part) where your goal is to stay alive as much time as possible.  
 
-It is not yet ready, but ... **comming soon to TestFlight for iPhone / iPad devices**
+It is not yet ready, but ... **comming soon to TestFlight for iPhone / iPad devices.**
 
 
 ## Current progress.
