@@ -13,8 +13,9 @@ It is not yet ready, but ... **comming soon to TestFlight for iPhone / iPad devi
 
 
 ## Current progress.
-- at this moment I´m working on an complement app whose motivation is to be able to test the backgrounds previously to be introduced in the game.
-- and looking for some free assets (sprites, music, sounds...).
+- [ ] Working on the extra stage, and cleaning
+- [x] at this moment I´m working on an complement app whose motivation is to be able to test the backgrounds previously to be introduced in the game.
+- [x] and looking for some free assets (sprites, music, sounds...).
 
 
 
