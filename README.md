@@ -13,7 +13,7 @@ It is not yet ready, but ... **comming soon to TestFlight for iPhone / iPad devi
 
 
 ## Current progress.
-- [ ] Working on the extra stage for the Test-Flight pre-alpha version
+- [ ] Working on the extra stage for the Test-Flight early alpha version
 - [x] at this moment I´m working on an complement app whose motivation is to be able to test the backgrounds previously to be introduced in the game.
 - [x] and looking for some free assets (sprites, music, sounds...).
 
